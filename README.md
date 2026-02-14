@@ -12,20 +12,6 @@ A RESTful Movies API built using Node.js and Express.
 - Clean architecture (routes, controllers, middleware)
 - Morgan logging
 - Nodemon for development
-
----
-
-## 🏗 Project Structure
-express-app/
-│
-├── controllers/
-│   └── movieController.js
-├── middleware/
-│   └── validateMovie.js
-├── routes/
-│   └── movies.js
-├── server.js
-├── package.json
 ## 📌 API Endpoints
 
 | Method | Endpoint        | Description          |
